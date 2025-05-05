@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImoveisBlazor", "ImoveisBlazor\ImoveisBlazor.csproj", "{998D40E9-D7AC-4063-8AD7-E1273B109BFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{998D40E9-D7AC-4063-8AD7-E1273B109BFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{998D40E9-D7AC-4063-8AD7-E1273B109BFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{998D40E9-D7AC-4063-8AD7-E1273B109BFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{998D40E9-D7AC-4063-8AD7-E1273B109BFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3362372-6034-4B2E-9235-F16A3E60DEE5}
+	EndGlobalSection
+EndGlobal
