@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ImoveisBlazor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+956ea0fa807e2735487e635b5b4c02a91e6b2524")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+337b6ea4243080ac00b84ee4974966b7fc423b79")]
 [assembly: System.Reflection.AssemblyProductAttribute("ImoveisBlazor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ImoveisBlazor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
